@@ -1,0 +1,10 @@
+.main-page {
+    height: 90%;
+}
+
+#root {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
